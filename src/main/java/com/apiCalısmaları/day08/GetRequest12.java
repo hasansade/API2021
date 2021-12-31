@@ -30,6 +30,7 @@ public class GetRequest12 extends HerokuAppTestBase {
         System.out.println(expectedDataMap);
 
 
+
         //request gönderelim
 
         Response response=given().
